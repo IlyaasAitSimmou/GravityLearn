@@ -94,7 +94,7 @@ tagged `source=pred` (the simulator's own trace of the trajectory it chose) or
 `source=act` (live kRPC telemetry at 5 Hz), sharing a common `t=0` at
 gravity-turn start — so the entire physics model can be validated against the
 game after the flight. [phases/pitch_graphs.py](phases/pitch_graphs.py) plots
-these. Use [phases/pitch_program7.py](phases/pitch_program7.py) for the same
+these. Use [phases/pitch_program.py](phases/pitch_program.py) for the same
 autopilot without the logging overhead.
 
 ---
