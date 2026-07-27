@@ -2,7 +2,7 @@ from phases import vertical_ascent
 import krpc
 import time
 import phases.vertical_ascent
-import phases.pitch_program7
+import phases.pitch_program
 # To record a predicted-vs-actual telemetry CSV for the flight, swap in the
 # logging build: import phases.pitch_program_w_logs and construct
 # phases.pitch_program_w_logs.PitchProgram(...) below instead (same API).
