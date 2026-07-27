@@ -1,5 +1,7 @@
 # KSP Optimal Ascent Autopilot
 
+DEMO Link: https://drive.google.com/file/d/1-ZniaLMHsyDil0PJB-yr0JkCMxqOIzeU/view?usp=sharing
+
 An autopilot that flies a rocket from the launchpad to a circular orbit in
 Kerbal Space Program, and does it on as little fuel as it can find. It talks to
 the game over [kRPC](https://krpc.github.io/krpc/), and instead of following a
